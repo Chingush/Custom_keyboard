@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "557877051427",
+    "firebase_url": "https://keyboard-12254-default-rtdb.firebaseio.com",
+    "project_id": "keyboard-12254",
+    "storage_bucket": "keyboard-12254.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557877051427:android:72f0f7fc44c75909c4f196",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557877051427-u1gee338s1rmmnjg7c6t2dgvldkn4lfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKfoAxgiNIivokiwtdInHCKoyVgJzTTTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557877051427-u1gee338s1rmmnjg7c6t2dgvldkn4lfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
